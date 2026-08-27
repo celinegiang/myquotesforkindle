@@ -104,7 +104,7 @@ return {
     },
 
     {
-        q = "I've never admit something like this to your face, But the truth is, without meaning to, I start talking like you so mean sometimes, and I hate it. But my idea of victory is so tied to the image of you in my head that in those moments, I can't help but imitate you.",
+        q = "I've never admit something like this to your face, But the truth is, without meaning to, I start talking like you. You're so mean sometimes, and I hate it. But my idea of victory is so tied to the image of you in my head that in those moments, I can't help but imitate you.",
         a = "Izuku Midoriya",
         b = "My Hero Academia"
     }
